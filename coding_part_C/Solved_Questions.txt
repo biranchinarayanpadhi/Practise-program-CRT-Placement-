@@ -1,0 +1,48 @@
+1. Program to calculate the factorial of a number   
+2. Program to calculate the sum digits of a number  
+3. Program to reverse a number                      
+4. Program to check the number is strong number or not.
+5. Program to calculate the prime factors of a numbers 
+6. Program to check given number is armstrong or not  
+7. Program to check given number is palendrome or not  
+8. Program to add between any two numbers using loop  
+9. Program to calculate daily expenditure if monthely expenditure is given using loop.
+10. Program to count number of bits are set to 1 in an integer.
+11. Program to calculate G.C.D of any two numbers 
+12. Program to calculate L.C.M of two numbers.    
+13. Program to calculate fibonacci series         
+14. Program to calculate string palindrome        
+15. Program to check the number is Prime number or not  
+16. Program to find largest number in an array            
+17. Program to find Second largest number in an array   
+18. Program to  remove duplicate elements in an array ..........
+19. Program to convert decimal to binary 
+20. Program to convert binary to decimal 
+21. Program to check the number is perfect number or not. 
+22. Program to find generic root of a number. 
+23. Program to check a year is leap year or not. 
+
+24. Program to revese a string 
+25. Program to add a sub-string in a string 
+26. Program to traverse a string in reverse order 
+27. Program to count number of vowels , digits,characters and word present in string. 
+
+28. Program to add between two matrix
+29. Program to multiplication between two matrix
+30. Program to transpose a matrix
+31. Program for a sparse matrix
+
+32. Program to calculate Amicable pairs from 1 to 1000
+33. Program to calculate Sum of the series 1+2+3+---------+n 
+34. Program to find area triangle -y
+
+35. Program  for Bubble sort -y
+36. Program  for Selection sort -y 
+37. Program  for insertion sort
+38. Program  for Quick Sort
+39. Program  for Merge Sort
+
+40. Program for Sequential search using array
+41. Program for Sequential search  using linked list
+42. Program for Binary search using array
+43. Program for Binary search using linked list
