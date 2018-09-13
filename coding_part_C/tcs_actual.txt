@@ -1,0 +1,36 @@
+import java.util.*;
+class colution{
+public sttaic void main(String args[]){
+	
+Scanner sc=new Scanner(System.in);
+String s="";
+for(int i=0;i<3;i++){
+String k=sc.nextLine();
+if(i==0){
+for(int j=0;j<k.length();j++){
+char c=k.charAt(j);
+if(c=='a'||a=='e'||a=='i'||a=='o'||a=='u'||a=='A'||a=='E'||a=='I'||a=='O'||a=='U'){
+	k[j]='#';
+}
+}
+s=s.concat(k);
+continue;
+}
+if(i==1){
+for(int j=0;j<k.length();j++){
+char c=k.charAt(j);
+if(c!='a'||c!='e'||c!='i'||c!='o'||c!='u'||c!='A'||c!='E'||c!='I'||c!='O'||c!='U'){
+k[j]='@';
+}
+}
+s=s.concat(k);
+continue;
+}
+if(i==2){
+k=k.toUppercase();
+s=s.concat(k);
+}
+}
+System.out.println(s);
+}
+}
